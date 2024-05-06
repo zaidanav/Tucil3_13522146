@@ -1,0 +1,29 @@
+Test Case 1
+
+startWord : frown
+endWord   : smile
+
+Test Case 2
+
+startWord : root
+endWord   : base
+
+Test Case 3
+
+startWord : earn
+endWord   : make
+
+Test Case 4
+
+startWord : parka
+endWord   : scarf
+
+Test Case 5
+
+startWord : story
+endWord   : board
+
+Test Case 6
+
+startWord : cheek
+endWord   : blush
